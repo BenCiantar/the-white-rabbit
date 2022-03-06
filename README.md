@@ -1,7 +1,7 @@
 <h1>#the-white-rabbit</h1>
-<h3>The White Rabbit: A Matrix themed reaction speed game - Hyper Island Project 2</h2>
+<h3>The White Rabbit: A Matrix themed reaction speed game</h2>
 
-Brief: Group project to incorporate the project management tools we've been learning (github, agile, kanban/scrum) to create a web project that incorporates the javascriot date function as well as local or session storage.
+Brief: Group project to incorporate the project management tools we've been learning (github, agile, kanban/scrum) to create a web project that incorporates the javascript date function as well as local or session storage.
 
 Timeframe: Two weeks.
 
